@@ -22,9 +22,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am Roman Plaud, a first-year Ph.D. student at [Télécom Paris](https://www.telecom-paris.fr/) (part of [IP Paris](https://www.ip-paris.fr/)) and [Onepoint](https://www.groupeonepoint.com/fr/), supervised by [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html), [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau), and [Antoine Saillenfest](https://toinesayan.github.io/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on hierarchical classification, calibration, and optimal decision-making under uncertainty.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I graduated from [École des Ponts ParisTech](https://ecoledesponts.fr/) in 2023 and hold a master's degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in Mathematics, Vision, and Machine Learning ([MVA](https://www.master-mva.com/)).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out for possible collaborations or questions regarding my research!
