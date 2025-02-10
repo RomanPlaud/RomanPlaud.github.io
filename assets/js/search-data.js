@@ -431,11 +431,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-revisiting-hierarchical-text-classification-inference-and-metrics-was-accepted-at-conll-2024",
+    },{id: "news-revisiting-hierarchical-text-classification-inference-and-metrics-was-accepted-at-conll-2024",
           title: '🥳 Revisiting Hierarchical Text Classification: Inference and Metrics was accepted at @CoNLL 2024...',
+          description: "",
+          section: "News",},{id: "news-ignore-the-kl-penalty-boosting-exploration-on-critical-tokens-to-enhance-rl-fine-tuning-was-accepted-at-naacl-2025",
+          title: '🥳 Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
