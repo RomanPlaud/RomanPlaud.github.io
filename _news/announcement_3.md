@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳 [Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL Fine-Tuning]() was accepted at @NAACL 2025
+🥳 [Ignore the KL Penalty! Boosting Exploration on Critical Tokens to Enhance RL Fine-Tuning](https://arxiv.org/abs/2502.06533) was accepted at @NAACL 2025
