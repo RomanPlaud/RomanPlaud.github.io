@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Overview of my teaching experience.
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Experience  
 
-Organize your courses by years, topics, or universities, however you like!
+- **Teaching Assistant:**  
+  - **Natural Language Processing and Sentiment Analysis**  
+    - [Master Year 2 Data Science IP Paris](https://www.ip-paris.fr/en/education/masters/applied-mathematics-and-statistics-program/master-year-2-data-science), Institut Polytechnique de Paris  
+  - **Natural Language Processing**  
+    - [Master Data Sciences & Business Analytics (Centrale-ESSEC)](https://www.centralesupelec.fr/fr/master-data-sciences-business-analytics-dsba?tab=program), CentraleSupélec  
+
+- **Mathematics "Khôlleur":**  
+  - First-year students at Télécom Paris  
