@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🐳 Check out my latest [blog post](https://www.linkedin.com/posts/roman-plaud-573298195_deepseek-r1-activity-7305149553601622016-Xr0H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3IOicB2urtRCmSQ-w1Gwy4PCkOzhnMxJI) about DeepSeek-R1
+🐳 Check out my latest [blog post](https://www.groupeonepoint.com/fr/publications/deepseek-r1-ouvrons-le-capot/) about DeepSeek-R1
 
