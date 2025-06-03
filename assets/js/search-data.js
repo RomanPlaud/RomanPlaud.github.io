@@ -385,7 +385,7 @@ ninja.data = [{
           title: '🐳 Check out my latest blog post about DeepSeek-R1',
           description: "",
           section: "News",},{id: "news-to-each-metric-its-decoding-post-hoc-optimal-decision-rules-of-probabilistic-hierarchical-classifiers-was-accepted-at-icml-2025",
-          title: '🥳 To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical...',
+          title: '🥳🥳🥳 To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
