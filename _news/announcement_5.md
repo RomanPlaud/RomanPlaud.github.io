@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-🥳 [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://arxiv.org/abs/2506.01552) was accepted at @ICML 2025
+🥳🥳🥳 [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://arxiv.org/abs/2506.01552) was accepted at @ICML 2025
 
