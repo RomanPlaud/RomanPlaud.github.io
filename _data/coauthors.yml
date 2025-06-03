@@ -17,3 +17,7 @@
 "vassoyan":
   - firstname: ["Jean", "Jean Vassoyan"]
     url: https://scholar.google.com/citations?user=Bscz0YkAAAAJ&hl=fr&oi=ao
+
+"perez":
+  - firstname: ["Alexandre", "Alexandre Perez-Lebel"]
+    url: https://scholar.google.com/citations?user=A0M2jTMAAAAJ&hl=fr
