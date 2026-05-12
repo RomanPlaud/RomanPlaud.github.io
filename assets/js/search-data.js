@@ -387,7 +387,7 @@ ninja.data = [{
           section: "News",},{id: "news-to-each-metric-its-decoding-post-hoc-optimal-decision-rules-of-probabilistic-hierarchical-classifiers-was-accepted-at-icml-2025",
           title: '🥳🥳🥳 To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical...',
           description: "",
-          section: "News",},{id: "news-tailoring-strictly-proper-scoring-rules-for-downstream-tasks-an-application-to-causal-inference-was-accepted-at-icml-2026-note-i-have-decided-to-present-this-work-virtually-rather-than-flying-to-seoul-in-order-to-mitigate-my-carbon-impact",
+          section: "News",},{id: "news-tailoring-strictly-proper-scoring-rules-for-downstream-tasks-an-application-to-causal-inference-was-accepted-at-icml-2026",
           title: '🥳🥳🥳 Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal...',
           description: "",
           section: "News",},{id: "projects-project-1",
