@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 🐳 Check out my latest [blog post](https://www.groupeonepoint.com/fr/publications/deepseek-r1-ouvrons-le-capot/) about DeepSeek-R1
-

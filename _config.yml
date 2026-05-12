@@ -10,7 +10,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-description: > 
+description: >
   Portfolio and academic research site of Roman Plaud. Explore my projects, publications, and contributions.
 keywords: Roman Plaud, academic portfolio, research, Jekyll, GitHub Pages
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
