@@ -21,6 +21,6 @@ nav_order: 4
 
 ### Supervision
 
-- **PhD Track Student**
+- **[Hai Thien Long Vu](https://www.linkedin.com/in/vuhaithienlong/)** (PhD Track Student)
   - Co-supervising with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) on Conformal Prediction.
   - Institut Polytechnique de Paris (IP Paris)
