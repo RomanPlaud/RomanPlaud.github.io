@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-500-server-error",
+        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
-        title: '500 Server Error <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
-      description: "",
+      description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
       section: "Posts",
       handler: () => {
         
@@ -63,6 +63,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-to-each-metric-its-decoding-post-hoc-optimal-decision-rules-of-probabilistic-hierarchical-classifiers-was-accepted-at-icml-2025",
           title: '🥳🥳🥳 To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical...',
+          description: "",
+          section: "News",},{id: "news-starting-co-supervising-hai-thien-long-vu-phd-track-student-on-conformal-prediction-with-thomas-bonald",
+          title: '🎓 Starting co-supervising Hai Thien Long Vu (PhD Track Student) on Conformal Prediction...',
           description: "",
           section: "News",},{id: "news-tailoring-strictly-proper-scoring-rules-for-downstream-tasks-an-application-to-causal-inference-was-accepted-at-icml-2026-note-i-have-decided-to-present-this-work-virtually-rather-than-flying-to-seoul-in-order-to-mitigate-my-carbon-impact",
           title: '🥳🥳🥳 Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal...',
