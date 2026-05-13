@@ -1,11 +1,14 @@
 ---
-layout: cv
+layout: none
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: 
-toc:
-  sidebar: left
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/roman_plaud_cv.pdf' | relative_url }}" />
+    <script>window.location.replace("{{ '/assets/pdf/roman_plaud_cv.pdf' | relative_url }}");</script>
+  </head>
+</html>
