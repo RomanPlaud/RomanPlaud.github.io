@@ -18,3 +18,9 @@ nav_order: 4
 
 - **Mathematics "Khôlleur":**
   - First-year students at Télécom Paris
+
+### Supervision
+
+- **PhD Track Student**
+  - Co-supervising with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) on Conformal Prediction.
+  - Institut Polytechnique de Paris (IP Paris)
