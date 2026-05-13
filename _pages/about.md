@@ -25,7 +25,7 @@ latest_posts:
 
 I am Roman Plaud, a second-year Ph.D. student at [Télécom Paris](https://www.telecom-paris.fr/) (part of [IP Paris](https://www.ip-paris.fr/)) and [Onepoint](https://www.groupeonepoint.com/fr/), supervised by [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html), [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau), and [Antoine Saillenfest](https://toinesayan.github.io/).
 
-My research focuses on hierarchical classification, calibration, and optimal decision-making under uncertainty.
+My research focuses on bayes-optimal decision making, calibration, proper scoring rules, and structured predictions.
 
 I graduated from [École des Ponts ParisTech](https://ecoledesponts.fr/) in 2023 and hold a master's degree from [ENS Paris-Saclay](https://ens-paris-saclay.fr/) in Mathematics, Vision, and Machine Learning ([MVA](https://www.master-mva.com/)).
 
