@@ -70,6 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-tailoring-strictly-proper-scoring-rules-for-downstream-tasks-an-application-to-causal-inference-was-accepted-at-icml-2026-note-i-have-decided-to-present-this-work-virtually-rather-than-flying-to-seoul-in-order-to-mitigate-my-carbon-impact",
           title: '🥳🥳🥳 Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal...',
           description: "",
+          section: "News",},{id: "news-i-will-be-presenting-my-icml-2026-paper-at-cap-2026",
+          title: 'I will be presenting my ICML 2026 paper at CAP 2026.',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
