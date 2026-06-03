@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳🥳🥳 [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](https://icml.cc/virtual/2026/poster/64815) was accepted at @ICML 2026.
-
-🌱 *Note: I have decided to present this work virtually rather than flying to Seoul in order to mitigate my carbon impact.*
+🥳🥳🥳 [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference](https://arxiv.org/abs/2606.03332) was accepted at [@ICML 2026](https://icml.cc/Conferences/2026). 🌱 Note: I have decided to present this work virtually rather than flying to Seoul in order to mitigate my carbon impact.
