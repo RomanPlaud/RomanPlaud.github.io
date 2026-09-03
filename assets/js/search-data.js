@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-my-icml-2026-paper-at-cap-2026",
           title: 'I will be presenting my ICML 2026 paper at CAP 2026.',
           description: "",
+          section: "News",},{id: "news-i-will-be-visiting-from-september-to-december-2026-at-ghent-university-with-willem-waegeman",
+          title: 'I will be visiting from september to december 2026 at Ghent University with...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
