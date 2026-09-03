@@ -23,7 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Roman Plaud, a second-year Ph.D. student at [Télécom Paris](https://www.telecom-paris.fr/) (part of [IP Paris](https://www.ip-paris.fr/)) and [Onepoint](https://www.groupeonepoint.com/fr/), supervised by [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html), [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau), and [Antoine Saillenfest](https://toinesayan.github.io/).
+I am Roman Plaud, a third-year Ph.D. student at [Télécom Paris](https://www.telecom-paris.fr/) (part of [IP Paris](https://www.ip-paris.fr/)) and [Onepoint](https://www.groupeonepoint.com/fr/), supervised by [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html), [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau), and [Antoine Saillenfest](https://toinesayan.github.io/).
+I am visiting Ghent University from september to december 2026, with [Willem Waegeman](https://willemwaegeman.github.io/bioml/).
 
 My research focuses on bayes-optimal decision making, calibration, proper scoring rules, and structured predictions.
 
