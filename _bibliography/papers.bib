@@ -1,3 +1,17 @@
+@article{plaud2026onebit,
+  title={Evaluating and Recalibrating Probabilistic Classifiers from {One-Bit} Threshold Queries},
+  author={Plaud, Roman and Saillenfest, Antoine and Labeau, Matthieu and Bonald, Thomas and Waegeman, Willem},
+  year={2026},
+  eprint={2609.05125},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2609.05125},
+  pdf={https://arxiv.org/pdf/2609.05125},
+  abbr={arXiv preprint},
+  selected={true},
+  abstract={Standard calibration evaluation and recalibration methods assume access to predicted probabilities. We study one-bit threshold access, a setting in which probabilities are hidden and the evaluator observes only whether the predicted probability exceeds a single chosen threshold per sample. Under this restriction, we show that classifiers can nevertheless be evaluated and recalibrated without reconstructing their hidden scores. We derive a consistent estimator of True Calibration Error, unbiased estimators of strictly proper scoring rules, and a one-bit objective for Temperature Scaling whose expectation matches the standard log-loss objective. Across these settings, we quantify the statistical cost incurred by replacing standard probability-access procedures by our one-bit estimators. Finally, we instantiate the framework for black-box LLMs, where the logit_bias API parameter allows us to realize the required threshold queries in zero-shot binary question answering.}
+}
+
 @inproceedings{plaud2026tailoring,
   title={Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference},
   author={Plaud, Roman and Perez-Lebel, Alexandre and Saillenfest, Antoine and Bonald, Thomas and Le Morvan, Marine and Varoquaux, Ga{\"e}l and Labeau, Matthieu},
@@ -77,4 +91,3 @@
     pdf = {https://aclanthology.org/2024.conll-1.18.pdf},
     poster = {poster_conll_.pdf}
 }
-
