@@ -76,6 +76,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-visiting-from-september-to-december-2026-at-ghent-university-with-willem-waegeman",
           title: 'I will be visiting from september to december 2026 at Ghent University with...',
           description: "",
+          section: "News",},{id: "news-my-new-preprint-evaluating-and-recalibrating-probabilistic-classifiers-from-one-bit-threshold-queries-is-now-available-on-arxiv",
+          title: '📄 My new preprint, Evaluating and Recalibrating Probabilistic Classifiers from One-Bit Threshold Queries,...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
