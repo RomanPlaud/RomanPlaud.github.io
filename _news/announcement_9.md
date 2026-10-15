@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be visiting  from september to december 2026 at [Ghent University](https://www.ugent.be/en) with [Willem Waegeman](https://willemwaegeman.github.io/bioml/).
+I am currently visiting  from september to december 2026 at [Ghent University](https://www.ugent.be/en) with [Willem Waegeman](https://willemwaegeman.github.io/bioml/).
