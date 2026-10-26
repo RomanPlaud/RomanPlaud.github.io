@@ -12,6 +12,9 @@ nav_order: 3
 - **Evaluating and Recalibrating Probabilistic Classifiers from One-Bit Threshold Queries**
   - BioML / BioStat seminar, Ghent University, October 2026 — [Slides]({{ '/assets/pdf/calibration_llm_slides.pdf' | relative_url }})
 
+- **Workshop on Tabular Foundation Models**
+  - Co-organized with Onepoint for [Télécom IA](https://www.linkedin.com/company/telecom-ia/), Télécom Paris, 2 June 2026 — [LinkedIn post](https://lnkd.in/p/eEwBjWnt)
+
 ### Poster Sessions
 
 - **Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference**
